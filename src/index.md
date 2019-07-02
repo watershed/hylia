@@ -5,4 +5,4 @@ postsHeading: Latest thoughts
 archiveButtonText: See all thoughts
 socialImage: ''
 ---
-Where Jonathan Schofield over-thinks things.
+Hello. I’m Jonathan Schofield, a web designer. This is where I go to over-think things.
