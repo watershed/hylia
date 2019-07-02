@@ -7,6 +7,7 @@ tags:
   - Climate breakdown
   - Change
   - Extinction Rebellion
+  - Medium
 ---
 This was originally published [on Medium](https://medium.com/@schofeld/why-addressing-climate-change-is-like-going-to-the-loo-d7a826e3a409).
 
