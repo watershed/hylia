@@ -6,7 +6,7 @@ tags:
   - Publishing
   - WebDev
 ---
-Warning, you have entered the world of web tech, frequent use of acronyms lurk below (and one above).
+Warning, you have entered the world of web tech, so frequent use of acronyms lurk below (and one sweary one above).
 
 This site uses [Eleventy](https://www.11ty.io) as a static site generator, but what the hell is one of those? 
 
