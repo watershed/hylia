@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Nearly enough
-postsHeading: Latest posts
-archiveButtonText: See all posts
+postsHeading: Latest thoughts
+archiveButtonText: See all thoughts
 socialImage: ''
 ---
-Over thinking from [Jonathan Schofield]().
+Where Jonathan Schofield over-thinks things.
