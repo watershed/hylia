@@ -10,7 +10,9 @@ Warning, you have entered the world of web tech, so frequent use of acronyms lur
 
 This site uses [Eleventy](https://www.11ty.io) as a static site generator, but what the hell is one of those? 
 
-**Static site generator**, or SSG for short, is an awful, unclear term for a method of web publishing that nonetheless has important advantages over what has become the norm since the rise of blogging 20 or so years ago.
+**Static site generator**, or SSG for short, is an awful, unclear term for a method of web publishing that is different in important ways from what has become the norm since the rise of blogging 20 or so years ago.
+
+## Where we have been
 
 For most of this century, blogging engines have tended to be  software frameworks that talk to: 
 
@@ -35,6 +37,8 @@ Like this:
 Computers are quick, but this can take quite a bit of time. If the website is eking out resources on a shared server, it can take many seconds and you, the visitor, perceive the site to be sluggish.
 
 Frameworks like this are **dynamic** in the sense that they rely upon highly contingent processes every time a page is requested.
+
+## The snappy SSG alternative
 
 By contrast, SSGs save every web page as an HTML file, ready to be served straightaway. The net result is that: 
 
