@@ -8,7 +8,7 @@ tags:
 ---
 This thing has been created with [Hylia](https://github.com/andybelldesign/hylia#readme), a blog  starter kit made by a clever chap and all-round good egg, [Andy Bell](https://andy-bell.design), leveraging the combined power of [Netlify](https://www.netlify.com) as host, and [Eleventy](https://11ty.io) as publishing system.
 
-Eleventy is an Open Source [static site generator](/posts/static-site-generators) (SSG) made by [Zach Leatherman](https://www.zachleat.com/).
+Eleventy is an Open Source [static site generator](/posts/static-site-generators-wtf) (SSG) made by [Zach Leatherman](https://www.zachleat.com/).
 
 I’d been tinkering with Eleventy and Netlify on and off this spring, and not quite joining all the dots, and now Andy has made it all so easy: all you need is a Github account to [get started](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia).
 
