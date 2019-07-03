@@ -25,6 +25,8 @@ But that’s not the world of car insurance. There is a litany of steps, each of
 
 This is not new knowledge. Any half decent e-commerce checkout process has known this for at least a decade.
 
-But SwiftCover don't do this. With them, it’s straight into the first question, with no indication of what is to follow.There is no context providedSo when the first 
+But SwiftCover don't do this when you log in and choose the option to ‘Change car details’. 
 
-It began with me logging in to my policy details and choosing the option to ‘Change car details’ and went downhill from there.
+With them, it’s straight into the first question, with no indication of what is to follow.There is no context providedSo when the first 
+
+It began with me logging in to my policy details and went downhill from there.
