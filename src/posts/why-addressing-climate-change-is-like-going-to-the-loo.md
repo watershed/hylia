@@ -25,4 +25,4 @@ Except there is a _world_ of difference between outcomes. In my mum’s case, th
 
 For too many, the glass is almost full. But for them, they’re convinced that’s OK, because they’ve taken a few sips. And that’s enough, right?
 
-No. [#RebelForLife](https://rebellion.earth/)
+No, it’s not: [#RebelForLife](https://rebellion.earth/).
