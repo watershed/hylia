@@ -12,4 +12,4 @@ Eleventy is an Open Source [static site generator](/posts/static-site-generators
 
 I’d been tinkering with Eleventy and Netlify on and off this spring, and not quite joining all the dots, and now Andy has made it all so easy: all you need is a Github account to [get started](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia).
 
-Now I’ve finally got a place to put my thoughts that is mine to make my own (or screw up). No more lazy posting to Medium, or threading tweets in lieu of a blog post. Sure, I can still do those things _as well_, but at least my meanderings can have a home I control.
+Which means I’ve finally got a place to put my thoughts that’s mine to make my own (or screw up). No more lazy posting to Medium, or threading tweets in lieu of a blog post. Sure, I can still do those things _as well_, but at least my meanderings can have a home I control, that isn’t [a place in the cloud with its head in the sand](https://medium.com/@schofeld/medium-a-place-in-the-cloud-with-its-head-in-the-sand-d16bf596c12e).
