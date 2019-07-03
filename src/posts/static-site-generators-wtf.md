@@ -12,7 +12,9 @@ This site uses [Eleventy](https://www.11ty.io) as a static site generator, but w
 
 **Static site generator**, or SSG for short, is an awful, unclear term for a method of web publishing that nonetheless has important advantages over what has become the norm since the rise of blogging 20 or so years ago.
 
-## The dominant web publishing method 
+To explain the term, let’s start with a look at where web development has been.
+
+## The dominant web publishing method
 
 For most of this century, blogging engines have tended to be  software frameworks that talk to: 
 
