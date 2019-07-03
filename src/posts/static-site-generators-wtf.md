@@ -23,7 +23,7 @@ For most of this century, blogging engines have tended to be  software framework
 * Templates, which generate pages
 * Visitors, viewing public published pages
 
-We’ll use WordPress as an example here.
+We’ll use [WordPress](https://wordpress.com) as an example here.
 
 Frameworks like WordPress have tended to use PHP as the software language that does the talking to what is typically a MySQL database. And those kind of Content Management Systems (CMS) do so _on-demand_ much of the time.
 
