@@ -32,7 +32,7 @@ So all analyses are to be taken with a pinch of salt and a heavy dose of perspec
 
 If vehicle manufacture and disposal is really only a fifth of the lifetime emissions for a petrol car, my second hand purchases don’t look quite so virtuous do they.
 
-But then neither does the purchase of an electric vehicle powered by an EU average mix of electricity generation with: 
+But then neither does the purchase of an electric vehicle powered by an EU average mix of electricity generation which results in: 
 
 * ~30% _more_ emissions in manufacture
 * ~40% fewer emissions thereafter
