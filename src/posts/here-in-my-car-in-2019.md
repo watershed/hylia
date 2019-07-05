@@ -22,7 +22,7 @@ But similar to how my decision to become vegetarian in the 80s began as a health
 
 I’m a better person by buying a car that’s already been made, right? Well, less bad perhaps.
 
-## On a highway to Hell
+## Together in electric dreams
 
 As the article linked to above says:
 
@@ -37,27 +37,17 @@ But then neither does the purchase of an electric vehicle powered by an EU avera
 * ~30% _more_ emissions in manufacture
 * ~40% fewer emissions thereafter
 
-The 25% net reduction in emissions overall is to be welcomed, and the prospect of 70% smaller emissions for a car powered solely by renewable sources is a massive improvement on that. But even then, using the above data, the lifetime emissions of a battery powered car driven 220,000 km (137,000 miles) is about **17 metric tonnes of CO<sup>2</sup>** (as opposed to the 54 tonnes of my second hand jalopies).
+The 25% net reduction in emissions overall is to be welcomed, and the prospect of 70% smaller emissions for a car powered _solely_ by renewable sources is a massive improvement on that. But even then, using the above data, the lifetime emissions of a battery powered car, driven 220,000 km (137,000 miles), is about **17 metric tonnes of CO<sup>2</sup>** (as opposed to the 54 tonnes of my second hand jalopies).
 
 There are an estimated [1.3 billion](https://www.carsguide.com.au/car-advice/how-many-cars-are-there-in-the-world-70629) cars in the world today. And from here, economists, wonks and [techno-optimists](https://nextbillionseconds.com/2019/02/13/the-next-billion-cars-episode-1-the-next-billion-problems), who like to project from the recent past into an ever-growing, prosperous future, tell us there will be [2 billion cars by 2040](https://www.weforum.org/agenda/2016/04/the-number-of-cars-worldwide-is-set-to-double-by-2040) – blithely ignoring environmental constraints as they do so.
 
-Let's say that all cars by then will be 100% electric and that all electricity that powers them will be from renewable sources (good luck with that). That's an installed base of cars that over its lifetime of currently expected use will generate 34 gigatons of CO<sup>2</sup>, or just over 9 gigatons of carbon ([34/3.67](https://thinkprogress.org/the-biggest-source-of-mistakes-c-vs-co2-c0b077313b/)).
+Let's say that all cars by then will be 100% electric, and that all electricity powering them will be from renewable sources (good luck with that). That's an installed base of cars which over its lifetime of currently expected use will generate 34 gigatons of CO<sup>2</sup>, or just over **9 gigatons of carbon** ([34/3.67](https://thinkprogress.org/the-biggest-source-of-mistakes-c-vs-co2-c0b077313b/)).
 
 The reality of course won't pan out like that.
 
-For one thing, the installed base of 1.3 billion fossil fuelled cars will presumably have emitted about 19 gigatons of carbon before it’s consigned to the scrapheap of steel and non-recyclable plastic and [tyres](https://www.bbc.co.uk/programmes/m00035qh).
+For one thing, the installed base of 1.3 billion fossil fuelled cars will have emitted about **19 gigatons of carbon** before it’s consigned to the scrapheap of steel and non-recyclable plastic and [mountains of tyres](https://www.bbc.co.uk/programmes/m00035qh).
 
-## Putting this in perspective
-
-There remain huge uncertainties about [how much more carbon we can ‘safely’ burn this century](https://www.carbonbrief.org/analysis-how-much-carbon-budget-is-left-to-limit-global-warming-to-1-5c), but the _really_ inconvenient truth is that those of us privileged enough to have been able to drive where we like, when we like, are going to have to get used to driving being a luxury again. And those who have never  driven will have wholly different circles to square and judgments to make.
-
-Collectively, we are going to have to drive less because the physics of climate don't care whether we burn carbon behind a wheel or in our [leaky Victorian houses](https://www.theccc.org.uk/2019/02/21/uk-homes-unfit-for-the-challenges-of-climate-change-ccc-says/), [shipped](https://inews.co.uk/news/long-reads/cargo-container-shipping-carbon-pollution/) in our Amazon delivery, or [cemented](https://insideclimatenews.org/news/28062018/global-warming-pollution-industrial-sources-cement-steel-trade-solutions-technology-shipping) into our built environment.
-
-We can attempt to hang on to jobs in industries of the past by rearranging the [Honda](https://www.theguardian.com/business/2019/feb/21/honda-european-chief-outlined-no-deal-brexit-concerns-in-2018) deckchairs on the Brexit Titanic. The climate **does not care**.
-
-All this was in my head today as I signed on to buying another car, to replace the one that had reached the end of its road.
-
-I did consider another option.
+Besides, the economics of an alternative route to the future are not evenly distributed. In part because the [UK government has done so little to incentivise it](https://play.acast.com/s/reasonstobecheerful/ad66bb68-119e-4cab-8b29-97913117d99d).
 
 ## Car sharing: baby you can drive my car 
 
@@ -68,6 +58,15 @@ I didn’t want to buy a new car, so I joined the Enterprise Car Club that opene
 Other, larger cities have other options, like Zipcar in Bristol, Cambridge, London or Oxford. No use to me.
 
 
+## Putting this in perspective
+
+There remain huge uncertainties about [how much more carbon we can ‘safely’ burn this century](https://www.carbonbrief.org/analysis-how-much-carbon-budget-is-left-to-limit-global-warming-to-1-5c), but the _really_ inconvenient truth is that those of us privileged enough to have been able to drive where we like, when we like, are going to have to get used to driving being a luxury again. And those who have never driven will have wholly different circles to square and judgments to make.
+
+Collectively, we are going to have to drive less because the physics of climate don't care whether we burn carbon behind a wheel or in our [leaky Victorian houses](https://www.theccc.org.uk/2019/02/21/uk-homes-unfit-for-the-challenges-of-climate-change-ccc-says/), [shipped](https://inews.co.uk/news/long-reads/cargo-container-shipping-carbon-pollution/) in our Amazon delivery, or [cemented](https://insideclimatenews.org/news/28062018/global-warming-pollution-industrial-sources-cement-steel-trade-solutions-technology-shipping) into our built environment.
+
+We can attempt to hang on to jobs in industries of the past by rearranging the [Honda](https://www.theguardian.com/business/2019/feb/21/honda-european-chief-outlined-no-deal-brexit-concerns-in-2018) deckchairs on the Brexit Titanic. The climate **does not care**.
+
+All this was in my head today as I signed on to buying another car, to replace the one that had reached the end of its road.
 
  Fahren, fahren, fahren auf der Autobahn
 
